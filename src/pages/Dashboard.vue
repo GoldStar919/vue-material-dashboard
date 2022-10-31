@@ -16,7 +16,7 @@
               <span class="text-success"
                 ><i class="fas fa-long-arrow-alt-up"></i> 55%
               </span>
-              increase in today sales.
+              increase in today sales1.
             </p>
           </template>
 
